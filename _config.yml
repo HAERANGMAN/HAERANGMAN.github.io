@@ -134,7 +134,7 @@ author:
 footer:
   links:
     - label: "Youtube"
-      icon: "fas fa-fw fa-youtube"
+      icon: "fab fa-fw fa-youtube"
       url: "https://www.youtube.com/channel/UCvNri5FlTSb9gb8ct06gNoA" 
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
