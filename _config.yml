@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "default" # "air" , "aqua", "contrast", "dark", "dirt
 
 # Site Settings
 locale                   : "kr-KR"
-title                    : "꿈은 없고요 그냥 놀고싶습니다"
+title                    : "🛫출국장같은 삶을 살자"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "HAERANGMAN"
-description              : "Beginner in Coding"
+description              : "HAERANGMAN's Log"
 url                      : "https://haerangman.github.io/"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "HAERANGMAN/HAERANGMAN.github.io"
@@ -73,7 +73,7 @@ google:
 # SEO Related
 google_site_verification :
 bing_site_verification   :
-naver_site_verification  :
+naver_site_verification  : "d65bd961e7489ac8f25776ab3a54f3ec8fb66205"
 yandex_site_verification :
 baidu_site_verification  :
 
