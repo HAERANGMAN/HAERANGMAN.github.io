@@ -6,8 +6,11 @@ main:
 categories:
   - title: "Projects🚀"
     children:
-      - title: "Categories7"
-        url: /categories/categories7/
+      - title: "JS:chromeHome"
+        url: /Projects/Home/
+      - title: "Py:lunch_recommendation"
+        url: /Projects/Lunch/
+      
         
   - title: "JavaScript🐣"
     children:
@@ -16,23 +19,21 @@ categories:
         
   - title: "Python🐍"
     children:
-      - title: "Machine_Learning"
+      - title: "Basic"
+        url: /Python/Basic/
+      - title: "machine_learning"
         url: /Python/ML/
-      - title: "Deep_Learning"
+      - title: "deep_learning"
         url: /Python/DL/
-      - title: "Quant"
+      - title: "quant"
         url: /Python/Quant/
       - title: "Flask"
         url: /Python/Flask/
-      - title: "Django"
-        url: /Python/Django/
+      - title: "django"
+        url: /Python/django/
 
   - title: "Others🐳"
-    children:
-      - title: "Git"
-        url: /categories/categories7/
-      - title: "SQL"
-        url: /categories/categories7/
+        url: /others/
 
   - title: "Ideas👾"
-    url: /categories/categories7/
+    url: /Ideas/
