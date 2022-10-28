@@ -106,14 +106,14 @@ author:
   avatar           : "/assets/Image/1558687692016.jpg"
   # bio              : "Beginner in Coding"
   location         : "🇰🇷Seoul & 🇹🇭Bangkok"
-  email            : abcrang@gmail.com
+  email            : "abcrang@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: 
+      url: "abcrang@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "www.anyoungkorea"
+      url: "https://www.anyoungkorea"
     - label: "Youtube"
       icon: "fab fa-fw fa-youtube"
       url: "https://www.youtube.com/channel/UCvNri5FlTSb9gb8ct06gNoA"  
