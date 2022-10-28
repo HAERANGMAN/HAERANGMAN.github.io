@@ -25,7 +25,7 @@ url                      : "https://haerangman.github.io/"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "HAERANGMAN/HAERANGMAN.github.io"
 teaser                   : "/assets/Image/1558687692016.jpg" #메뉴옆 or head
-logo                     : #타이틀 왼쪽 로고임 #"/assets/Image/1558687692016.jpg" #메뉴옆 or head
+logo                     : #타이틀 왼쪽 로고임 #"/assets/Image/1558687692016.jpg" 
 masthead_title           : #타이틀_메인 # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -104,8 +104,8 @@ analytics:
 author:
   name             : "HAERANGMAN"
   avatar           : "/assets/Image/1558687692016.jpg"
-  # bio              : "Beginner in Coding"
-  location         : "🇰🇷Seoul & 🇹🇭Bangkok"
+  bio              : 
+  location         : "Seoul🌃 & Bangkok🏝️"
   email            : "abcrang@gmail.com"
   links:
     - label: "Email"
