@@ -6,3 +6,9 @@
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
+
+@font-face {
+   font-family: 'Pretendard';
+   font-weight: thin;
+   src: url(/assets/css/PretendardVariable.ttf);
+}
