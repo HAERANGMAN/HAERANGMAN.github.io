@@ -1,8 +1,38 @@
 # main links
 main:
-  - title: "Python🐍"
-    url: /py/
-  - title: "JavaScript🐣"
-    url: /js/
+  - title: "About"
+    url: /About/ 
+
+categories:
   - title: "Projects🚀"
-    url: /projects/  
+    children:
+      - title: "Categories7"
+        url: /categories/categories7/
+        
+  - title: "JavaScript🐣"
+    children:
+      - title: "Basic"
+        url: /JavaScprint/Basic/
+        
+  - title: "Python🐍"
+    children:
+      - title: "Machine_Learning"
+        url: /Python/ML/
+      - title: "Deep_Learning"
+        url: /Python/DL/
+      - title: "Quant"
+        url: /Python/Quant/
+      - title: "Flask"
+        url: /Python/Flask/
+      - title: "Django"
+        url: /Python/Django/
+
+  - title: "Others🐳"
+    children:
+      - title: "Git"
+        url: /categories/categories7/
+      - title: "SQL"
+        url: /categories/categories7/
+
+  - title: "Ideas👾"
+    url: /categories/categories7/
