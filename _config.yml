@@ -18,15 +18,15 @@ minimal_mistakes_skin    : "default" # "air" , "aqua", "contrast", "dark", "dirt
 locale                   : "kr-KR"
 title                    : "🛫출국장같은 삶을 살자"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "this is {subtitle}" # site tagline that appears below site title in masthead
 name                     : "HAERANGMAN"
 description              : "HAERANGMAN's Log"
 url                      : "https://haerangman.github.io/"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "HAERANGMAN/HAERANGMAN.github.io"
 teaser                   : #"/assets/Image/1558687692016.jpg" #메뉴옆 or head
-logo                     : #"/assets/Image/1558687692016.jpg" #메뉴옆 or head
-masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
+logo                     : "/assets/Image/1558687692016.jpg" #메뉴옆 or head
+masthead_title           : "this is {masthead_title}" # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -105,7 +105,7 @@ author:
   name             : "HAERANGMAN"
   avatar           : "/assets/Image/1558687692016.jpg"
   # bio              : "Beginner in Coding"
-  location         : "eSeoul & Bangkok"
+  location         : "🇰🇷Seoul & 🇹🇭Bangkok"
   email            : abcrang@gmail.com
   links:
     - label: "Email"
