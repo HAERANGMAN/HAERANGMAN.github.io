@@ -1,7 +1,7 @@
 # HAERANGMAN.github.io
 
 
-
+```
 minimal-mistakes
 ├── _data                      # data files for customizing the theme
 |  ├── navigation.yml          ######## main navigation links
@@ -48,7 +48,7 @@ minimal-mistakes
 ├── Gemfile                    # gem file dependencies
 ├── index.html                 # paginated home page showing recent posts
 └── package.json               # NPM build scripts
-
+```
 
 
 
