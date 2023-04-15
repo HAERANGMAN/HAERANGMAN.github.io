@@ -24,8 +24,8 @@ description              : "HAERANGMAN's Log"
 url                      : "https://haerangman.github.io/"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "HAERANGMAN/HAERANGMAN.github.io"
-teaser                   : #"/assets/Image/1666960590162.jpg" 
-logo                     : #타이틀 왼쪽 로고임 #"/assets/Image/1558687692016.jpg" 
+teaser                   : #"/assets/image/1666960590162.jpg" 
+logo                     : #타이틀 왼쪽 로고임 #"/assets/image/1558687692016.jpg" 
 masthead_title           : "출국장 같은 삶🛫" #타이틀_메인, use " " for no title
 # breadcrumbs              : false # true, false (default)
 words_per_minute         : 200
@@ -103,7 +103,7 @@ analytics:
 # Site Author
 author:
   name             : "HAERANGMAN"
-  avatar           : "/assets/Image/1666960590162.jpg" #프로필사진
+  avatar           : "/assets/image/1666960590162.jpg" #프로필사진
   bio              : "**취미로 하는 코딩🖥️**<br>🐍빅데이터.py, 퀀트투자.py<br>🐣웹.js<br><br>"
   location         : "Seoul & Bangkok"
 #   email            : "abcrang@gmail.com"
