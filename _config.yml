@@ -22,7 +22,7 @@ subtitle                 : "subtitle" #타이틀_부제 # site tagline that appe
 name                     : "HAERANGMAN"
 description              : "HAERANGMAN's Log"
 url                      : "https://haerangman.github.io/"
-baseurl                  : "/baseurl" # the subpath of your site, e.g. "/blog"
+baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "HAERANGMAN/HAERANGMAN.github.io"
 teaser                   : "/assets/Image/1666960590162.jpg" #메뉴옆 or head
 logo                     : #타이틀 왼쪽 로고임 #"/assets/Image/1558687692016.jpg" 
