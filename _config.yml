@@ -17,17 +17,17 @@ minimal_mistakes_skin    : "default" # "air" , "aqua", "contrast", "dark", "dirt
 # Site Settings
 locale                   : "kr-KR"
 title                    : "🛫출국장같은 삶을 살자"
-title_separator          : "-"
-subtitle                 : #타이틀_부제 # site tagline that appears below site title in masthead
+title_separator          : "title_separator" #원래는 이거 "-"
+subtitle                 : "subtitle" #타이틀_부제 # site tagline that appears below site title in masthead
 name                     : "HAERANGMAN"
 description              : "HAERANGMAN's Log"
 url                      : "https://haerangman.github.io/"
-baseurl                  : # the subpath of your site, e.g. "/blog"
+baseurl                  : "/baseurl" # the subpath of your site, e.g. "/blog"
 repository               : "HAERANGMAN/HAERANGMAN.github.io"
 teaser                   : "/assets/Image/1666960590162.jpg" #메뉴옆 or head
 logo                     : #타이틀 왼쪽 로고임 #"/assets/Image/1558687692016.jpg" 
-masthead_title           : #타이틀_메인 # overrides the website title displayed in the masthead, use " " for no title
-# breadcrumbs            : false # true, false (default)
+masthead_title           : "masthead_title" #타이틀_메인 # overrides the website title displayed in the masthead, use " " for no title
+breadcrumbs              : false # true, false (default)
 words_per_minute         : 200
 comments:
   provider               : "utterances" # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
@@ -295,7 +295,7 @@ defaults:
       share: false
       related: true
       sidebar:
-        nav: "categories"
+      nav: "categories"
 
   # _pages
   - scope:
@@ -303,10 +303,11 @@ defaults:
       type: pages
     values:
       layout: single
-      author_profile: true
+      author_profile: false #true
       read_time: false
       comments: false
       share: false
       related: true
-      nav: "main"
+      nav: "categories" #"main"
+    
    
