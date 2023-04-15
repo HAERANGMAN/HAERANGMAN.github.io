@@ -6,6 +6,8 @@ main:
 categories:
   - title: "Projects🚀"
     children:
+      - title: "Tests"
+        url: /Projects/Tests/
       - title: "JS:chromeHome"
         url: /Projects/Home/
       - title: "Py:lunch_recommendation"
