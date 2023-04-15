@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air" , "aqua", "contrast", "dark", "dirt
 
 # Site Settings
 locale                   : "kr-KR"
-title                    : "HAERANGMAN" #tab에서 이름
+title                    : "🏝️HAERANGMAN's Log" #tab에서 이름
 title_separator          : "" #원래는 이거 "-"
 subtitle                 : "" #타이틀_부제 # site tagline that appears below site title in masthead
 name                     : "HAERANGMAN"
@@ -26,7 +26,7 @@ baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "HAERANGMAN/HAERANGMAN.github.io"
 teaser                   : #"/assets/Image/1666960590162.jpg" 
 logo                     : #타이틀 왼쪽 로고임 #"/assets/Image/1558687692016.jpg" 
-masthead_title           : "masthead_title" #타이틀_메인, use " " for no title
+masthead_title           : "출국장 같은 삶🛫" #타이틀_메인, use " " for no title
 # breadcrumbs              : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -104,8 +104,8 @@ analytics:
 author:
   name             : "HAERANGMAN"
   avatar           : "/assets/Image/1666960590162.jpg" #프로필사진
-  bio              : "**취미로 하는 코딩**<br>파이썬을 통한 빅데이터와 퀀트투자<br>자바스크립트를 활용한 웹<br><br>"
-  location         : "Seoul🌃🌆 & Bangkok🏝️"
+  bio              : "**취미로 하는 코딩🖥️**<br>🐍빅데이터.py, 퀀트투자.py<br>🐣웹.js<br><br>"
+  location         : "Seoul & Bangkok"
 #   email            : "abcrang@gmail.com"
   links:
     - label: "Email"
