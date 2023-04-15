@@ -104,9 +104,9 @@ analytics:
 author:
   name             : "HAERANGMAN"
   avatar           : "/assets/Image/1666960590162.jpg" #프로필사진
-  bio              : "**취미로 하는 코딩**<br>파이썬을 통한 빅데이터와 퀀트투자<br>자바스크립트를 활용한 웹<br><br>
-  location         : "Seoul & Bangkok"
-  email            : "abcrang@gmail.com"
+  bio              : "**취미로 하는 코딩**<br>파이썬을 통한 빅데이터와 퀀트투자<br>자바스크립트를 활용한 웹<br><br>"
+  location         : "Seoul🌃🌆 & Bangkok🏝️"
+#   email            : "abcrang@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -116,7 +116,7 @@ author:
       url: "https://www.anyoungkorea.com"
     - label: "Youtube"
       icon: "fab fa-fw fa-youtube"
-      url: "https://www.youtube.com/channel/UCvNri5FlTSb9gb8ct06gNoA"  
+      url: "https://www.youtube.com/@HAERANGMAN"  
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
@@ -135,7 +135,7 @@ footer:
   links:
     - label: "Youtube"
       icon: "fab fa-fw fa-youtube"
-      url: "https://www.youtube.com/channel/UCvNri5FlTSb9gb8ct06gNoA" 
+      url: "https://www.youtube.com/@HAERANGMAN" 
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url:
