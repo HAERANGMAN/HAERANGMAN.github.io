@@ -8,7 +8,7 @@ categories:
     url: /Projects/ 
     children:
       - title: "Tests"
-        url: /Projects/Tests/
+        url: /Tests/
       - title: "JS:chromeHome"
         url: /Projects/Home/
       - title: "Py:lunch_recommendation"
