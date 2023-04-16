@@ -308,7 +308,7 @@ defaults:
       comments: false
       share: false
       related: true
-      sidebar: right
+      sidebar: 
         nav: "categories" #"main"
     
    
