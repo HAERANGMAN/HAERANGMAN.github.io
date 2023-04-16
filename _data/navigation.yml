@@ -5,6 +5,7 @@ main:
 
 categories:
   - title: "Projects🚀"
+    url: /Projects/ 
     children:
       - title: "Tests"
         url: /Projects/Tests/
