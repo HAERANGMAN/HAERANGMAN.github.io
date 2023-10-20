@@ -295,7 +295,7 @@ defaults:
       share: false
       related: true
       sidebar:
-        nav: "categories"
+        nav: "categories" #"main"
 
   # _pages
   - scope:
