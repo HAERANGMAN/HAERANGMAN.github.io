@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air" , "aqua", "contrast", "dark", "dirt
 
 # Site Settings
 locale                   : "kr-KR"
-title                    : "HAERANGMAN's Log🏝️" #tab에서 이름
+title                    : "HAERANGMAN🏝️" #tab에서 이름
 title_separator          : "" #원래는 이거 "-"
 subtitle                 : "" #타이틀_부제 # site tagline that appears below site title in masthead
 name                     : "HAERANGMAN"
@@ -104,13 +104,13 @@ analytics:
 author:
   name             : "HAERANGMAN"
   avatar           : "/assets/image/1666960590162.jpg" #프로필사진
-  bio              : "**취미로 하는 코딩🖥️**<br>Py🐍 : 빅데이터, 퀀트투자<br>🐥🐤JS: 웹s<br><br>"
+  bio              : "**여행, 태국, 취미로 하는 코딩🖥️**<br>Py : 빅데이터, 퀀트<br>JS: 웹<br><br>"
   location         : "Seoul & Bangkok"
 #   email            : "abcrang@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "abcrang@gmail.com"
+      url: "haerangman@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://www.anyoungkorea.com"
