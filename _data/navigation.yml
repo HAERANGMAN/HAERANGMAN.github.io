@@ -2,6 +2,8 @@
 main:
   - title: "About"
     url: /About/ 
+  - title: "TEST 메인"
+    url: /TEST/ 
 
 categories:
   - title: "Projects🚀"
